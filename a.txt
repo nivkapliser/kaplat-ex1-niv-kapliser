@@ -1,1 +1,3 @@
 some content
+Added content to a
+Some updates to a.txt
