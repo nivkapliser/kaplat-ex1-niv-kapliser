@@ -1,1 +1,2 @@
 some A content
+added line to A
